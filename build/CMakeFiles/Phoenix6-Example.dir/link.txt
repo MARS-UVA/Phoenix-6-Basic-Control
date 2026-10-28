@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++20 -Wall "CMakeFiles/Phoenix6-Example.dir/main.cpp.o" -o Phoenix6-Example   -L/usr/lib/phoenix6  -Wl,-rpath,/usr/lib/phoenix6 /usr/lib/aarch64-linux-gnu/libSDL2.so -lncurses /usr/lib/aarch64-linux-gnu/libform.so -lCTRE_Phoenix6 -lCTRE_PhoenixTools 

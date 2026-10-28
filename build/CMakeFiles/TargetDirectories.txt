@@ -1,0 +1,3 @@
+/home/mars/Documents/ControllerTest/Phoenix6-Linux-Example/build/CMakeFiles/Phoenix6-Example.dir
+/home/mars/Documents/ControllerTest/Phoenix6-Linux-Example/build/CMakeFiles/edit_cache.dir
+/home/mars/Documents/ControllerTest/Phoenix6-Linux-Example/build/CMakeFiles/rebuild_cache.dir
